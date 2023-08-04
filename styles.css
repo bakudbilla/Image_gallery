@@ -1,0 +1,13 @@
+.imagename {
+    font-size: medium;
+    font-weight: bold;
+    color: black;
+}
+
+#topic {
+    font-size: larger;
+    font-weight: bolder;
+    color: black;
+    text-align: center;
+    margin-top: 10px;
+}
